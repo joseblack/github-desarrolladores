@@ -1,2 +1,2 @@
-alert("Hola mundo!");
+alert("Chao mundo!");
 console.log("Nuevo cambio");
