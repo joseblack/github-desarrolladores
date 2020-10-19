@@ -4,3 +4,14 @@ function sumar(a, b) {
 }
 
 sumar(5, 4);
+
+
+
+
+
+
+
+
+
+
+alert("ojala quede la suma tambien");
