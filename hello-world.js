@@ -1,3 +1,3 @@
-alert("Vamos a pelear ? yo soy el que mando");
-console.log("No se otro cambio");
+alert("subo esto espero funcione");
 console.log("Nuevo cambio");
+console.log("No se otro cambio");
