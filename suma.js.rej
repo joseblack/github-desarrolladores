@@ -1,0 +1,8 @@
+diff a/suma.js b/suma.js	(rejected hunks)
+@@ -1,5 +1,6 @@
+  function sumar(a, b) {
+  	var suma = a + b;
+++<<<<<<< Updated upstream
+ +	if (suma > 25) {
+ +		return suma * 10;
+ +        }
