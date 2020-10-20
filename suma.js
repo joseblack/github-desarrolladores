@@ -1,5 +1,8 @@
 function sumar(a, b) {
 	var suma = a + b;
+	if (suma > 25) {
+		return suma * 10;
+        }
 	return suma * 100;
 }
 
