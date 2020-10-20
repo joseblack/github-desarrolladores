@@ -9,9 +9,7 @@ function restar(a, b) {
 }
 
 sumar(5, 4);
-
-restar(100 - 5);
-
+restar(100 - 55);
 
 alert("ojala quede la suma tambien");
 
