@@ -1,9 +1,8 @@
 function sumar(a, b) {
 	var suma = a + b;
-
-	if (suma > 150) {
-		return suma;
-	}
+	if (suma > 25) {
+		return suma * 10;
+        }
 	return suma * 100;
 }
 
@@ -15,5 +14,5 @@ function restar(a, b) {
 sumar(5, 4);
 restar(100 - 55);
 
-alert("ultimos cambios de sourcetree");
+alert("ojala quede la suma tambien");
 
