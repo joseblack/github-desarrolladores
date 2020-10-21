@@ -1,3 +1,1 @@
-alert("Hola mundo -- editado para prueba");
-console.log("prueba");
-alert("Estoy feliz aprendiendo github");
+alert("hola munod desde consola");
