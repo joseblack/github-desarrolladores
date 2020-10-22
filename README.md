@@ -2,4 +2,4 @@
 
 github para desarrolladores
 
-[Visita mi bloh](http://www.ejemplo.com)
+[Visita mi blog](http://www.ejemplo.com)
